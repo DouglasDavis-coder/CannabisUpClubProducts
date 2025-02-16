@@ -1,0 +1,147 @@
+{
+    "strains": [
+        {
+            "name": "Hydrophobic Hydrophobic 75 mg",
+            "maxConcentration": 75,
+            "physicalProperties": {
+                "color": "Hydrophobic",
+                "density": "Highly crystalline structure"
+            }
+        },
+        {
+            "name": "Hydrophobic Hydrophobic 100 mg",
+            "maxConcentration": 100,
+            "physicalProperties": {
+                "color": "Hydrophobic",
+                "density": "Highly crystalline structure"
+            }
+        },
+        {
+            "name": "Lavender Leaf 100 mg",
+            "maxConcentration": 100,
+            "physicalProperties": {
+                "scent": "Lavender leaf scent",
+                "flavor": "Strong"
+            }
+        },
+        {
+            "name": "Sedatives 50 mg",
+            "maxConcentration": 50,
+            "physicalProperties": {
+                "nature": "Sative nature"
+            }
+        },
+        {
+            "name": "Hydrophobic Hydrophobic 25 mg",
+            "maxConcentration": 25,
+            "physicalProperties": {
+                "color": "Hydrophobic",
+                "density": "Highly crystalline structure"
+            }
+        },
+        {
+            "name": "Turmeric 100 mg",
+            "maxConcentration": 100,
+            "physicalProperties": {
+                "extract": "Turmeric extract",
+                "color": "Deep red"
+            }
+        },
+        {
+            "name": "Caraway 100 mg",
+            "maxConcentration": 100,
+            "physicalProperties": {
+                "scent": "Caraway aroma",
+                "flavor": "Earthy"
+            }
+        },
+        {
+            "name": "Hydrophobic Hydrophobic 35 mg",
+            "maxConcentration": 35,
+            "physicalProperties": {
+                "color": "Dark color",
+                "aroma": "Ethereal"
+            }
+        },
+        {
+            "name": "Tartan 25 mg",
+            "maxConcentration": 25,
+            "physicalProperties": {
+                "color": "Dark brown",
+                "flavor": "Aromatic"
+            }
+        },
+        {
+            "name": "Hydrophobic Hydrophobic 45 mg",
+            "maxConcentration": 45,
+            "physicalProperties": {
+                "color": "Hydrophobic",
+                "density": "Highly crystalline structure"
+            }
+        },
+        {
+            "name": "Turmeric 75 mg",
+            "maxConcentration": 75,
+            "physicalProperties": {
+                "extract": "Turmeric extract",
+                "color": "Deep red"
+            }
+        },
+        {
+            "name": "Caraway 65 mg",
+            "maxConcentration": 65,
+            "physicalProperties": {
+                "scent": "Caraway aroma",
+                "flavor": "Earthy"
+            }
+        },
+        {
+            "name": "Hydrophobic Hydrophobic 80 mg",
+            "maxConcentration": 80,
+            "physicalProperties": {
+                "color": "Lighter hydrophobic",
+                "density": "Highly crystalline structure"
+            }
+        },
+        {
+            "name": "Turmeric 50 mg",
+            "maxConcentration": 50,
+            "physicalProperties": {
+                "extract": "Turmeric extract",
+                "color": "Deep red"
+            }
+        },
+        {
+            "name": "Caraway 75 mg",
+            "maxConcentration": 75,
+            "physicalProperties": {
+                "scent": "Caraway aroma",
+                "flavor": "Earthy"
+            }
+        },
+        {
+            "name": "Turmeric 25 mg",
+            "maxConcentration": 25,
+            "physicalProperties": {
+                "extract": "Turmeric extract",
+                "color": "Dark red"
+            }
+        },
+        {
+            "name": "Hydrophobic Hydrophobic 90 mg",
+            "maxConcentration": 90,
+            "physicalProperties": {
+                "color": "Lighter hydrophobic",
+                "density": "Highly crystalline structure"
+            }
+        },
+        {
+            "name": "Turmeric 35 mg",
+            "maxConcentration": 35,
+            "physicalProperties": {
+                "extract": "Turmeric extract",
+                "color": "Dark red"
+            }
+        }
+    ]
+}
